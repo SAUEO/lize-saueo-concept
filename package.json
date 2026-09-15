@@ -2,7 +2,7 @@
   "name": "saueo-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://designsaueo-cmyk.github.io/lize-ai-toets",
+  "homepage": "https://saueo.github.io/lize-saueo-concept",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
