@@ -1,17 +1,5 @@
 import { useState, useEffect } from "react";
 
-const C = {
-  navy: "#0B1E3E",
-  navyDark: "#071429",
-  gold: "#C9A84C",
-  goldLight: "#E2C47A",
-  cream: "#F8F4EC",
-  white: "#FFFFFF",
-  slate: "#4A5568",
-  lightGray: "#F1F0EE",
-  midGray: "#9CA3AF",
-};
-
 const fonts = `@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Barlow:wght@400;600;700;800&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap');`;
 
 const gs = `
